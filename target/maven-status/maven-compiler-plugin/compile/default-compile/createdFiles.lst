@@ -1,0 +1,8 @@
+com\example\model\Reservation.class
+com\example\service\SalleService.class
+com\example\util\PaginationResult.class
+com\example\App.class
+com\example\repository\SalleRepository.class
+com\example\model\Salle.class
+com\example\repository\SalleRepositoryImpl.class
+com\example\service\SalleServiceImpl.class
